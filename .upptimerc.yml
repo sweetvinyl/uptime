@@ -11,7 +11,6 @@ status-website:
   theme: night
   apiBaseUrl: https://api.github.com
   cname: status.sweetvinyl.com
-  #baseUrl: /uptime
   logoUrl: https://sweetvinyl.com/cdn/shop/files/SweetVinyl_logo_on_white_160x120_b8e6a15b-91a1-4203-baed-5f07b2271c97_410x.png?v=1613681389
   name: Status
   introMessage: This is a status page for SweetVinyl
