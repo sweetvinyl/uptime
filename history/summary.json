@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/sugarserver.sweetvinyl.com.ico",
     "slug": "sugarserver",
     "status": "up",
-    "uptime": "99.82%",
+    "uptime": "99.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.60%",
     "uptimeMonth": "99.68%",
-    "uptimeYear": "99.82%",
-    "time": 371,
-    "timeDay": 278,
-    "timeWeek": 326,
-    "timeMonth": 300,
-    "timeYear": 371,
+    "uptimeYear": "99.83%",
+    "time": 369,
+    "timeDay": 196,
+    "timeWeek": 309,
+    "timeMonth": 297,
+    "timeYear": 369,
     "dailyMinutesDown": {
       "2025-09-25": 141
     }
