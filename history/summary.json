@@ -4,7 +4,7 @@
     "url": "https://sugarserver.sweetvinyl.com/uptimerobotcheck",
     "icon": "https://icons.duckduckgo.com/ip3/sugarserver.sweetvinyl.com.ico",
     "slug": "sugarserver",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 303,
     "timeYear": 358,
     "dailyMinutesDown": {
+      "2025-10-07": 0,
       "2025-09-25": 141
     }
   }
