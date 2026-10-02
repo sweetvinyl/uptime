@@ -1,7 +1,7 @@
 url: https://sugarserver.sweetvinyl.com/uptimerobotcheck
-status: down
-code: 502
-responseTime: 348
-lastUpdated: 2026-10-02T15:48:36.930Z
+status: up
+code: 200
+responseTime: 420
+lastUpdated: 2026-10-02T16:31:24.375Z
 startTime: 2025-08-02T00:37:11.920Z
 generator: Upptime <https://github.com/upptime/upptime>
