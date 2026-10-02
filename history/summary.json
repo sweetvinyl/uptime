@@ -4,16 +4,16 @@
     "url": "https://sugarserver.sweetvinyl.com/uptimerobotcheck",
     "icon": "https://icons.duckduckgo.com/ip3/sugarserver.sweetvinyl.com.ico",
     "slug": "sugarserver",
-    "status": "down",
+    "status": "up",
     "uptime": "84.44%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "81.84%",
-    "time": 299,
-    "timeDay": 378,
-    "timeWeek": 314,
-    "timeMonth": 272,
+    "uptimeDay": "97.03%",
+    "uptimeWeek": "99.58%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "81.83%",
+    "time": 300,
+    "timeDay": 392,
+    "timeWeek": 325,
+    "timeMonth": 277,
     "timeYear": 286,
     "dailyMinutesDown": {
       "2025-10-07": 362,
@@ -92,7 +92,7 @@
       "2026-08-14": 1309,
       "2026-08-13": 172,
       "2026-08-21": 706,
-      "2026-10-02": 0
+      "2026-10-02": 43
     }
   }
 ]
